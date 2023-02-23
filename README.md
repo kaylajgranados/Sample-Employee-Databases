@@ -1,4 +1,4 @@
-# SQL-Challenge
+# Sample Employee Databases SQL Challenge
 
 For this project, I designed the tables to hold the data from CSV files, imported the CSV files into a SQL database, and then answered questions about the data. 
 
