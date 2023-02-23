@@ -5,6 +5,8 @@ For this project, I designed the tables to hold the data from CSV files, importe
 **Data Modeling**
 
 Inspected the six CSV files, and then sketched an ERD of the tables. 
+![Screenshot 2023-02-23 at 12 12 01 PM](https://user-images.githubusercontent.com/83734241/220994370-0dbb44b9-aee9-47f2-80cf-8fcbfe776700.png)
+
 
 **Data Engineering**
 
