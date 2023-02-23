@@ -87,9 +87,6 @@ sex
 FROM employees
 WHERE first_name = 'Hercules' AND last_name like 'B%'
 
---List each employees in the Sales department, including their employee number, last name, and first name. 
---List each employees in the Sales and Development departments, including their employee number, last name, first name, and department name 
-
 --List the frequency counts, in descending order, of all the employees last names (that is, how many employees share each last name). 
 
 SELECT last_name,COUNT(last_name) AS Frequency 
