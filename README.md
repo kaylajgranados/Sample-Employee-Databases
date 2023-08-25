@@ -1,6 +1,6 @@
 # Sample Employee Databases SQL Challenge
 
-For this project, I designed tables to hold the sample employee data, built the SQL database in PostgreSQL, and wrote SQL queries to pull lists of employees. This was a project for the UCI Data Analytics and Visualization Bootcamp. 
+For this project, I designed tables to hold the sample employee data, built the SQL database in PostgreSQL, and wrote SQL queries to pull lists of employees. This was a project for the UCI Data Analytics Bootcamp. 
 
 **Data Modeling**
 
